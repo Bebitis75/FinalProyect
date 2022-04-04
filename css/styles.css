@@ -1,0 +1,23 @@
+.Inicio-1 {
+background-color:#9AD0EC;
+margin: 0%;
+padding: 0%;
+width:100%;
+height: 300px;
+position: relative;
+border: 0%;
+
+}
+
+.letrasdeinicio{
+margin: 0px;
+font-family:"lucida handwriting",cursive;
+text-decoration: underline;
+text-decoration-style: dotted;
+font-size: 40px;
+position: absolute;
+left:35%;
+top:8%;
+
+
+}
